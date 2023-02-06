@@ -4,12 +4,227 @@
   
     
     <entry>
-      <title>github+hexo搭建个人博客</title>
+      <title>github+hexo搭建个人博客，及butterfly主题应用</title>
       <link href="/2023/02/05/2023-hello/"/>
       <url>/2023/02/05/2023-hello/</url>
       
-        <content type="html"><![CDATA[<h2 id="第一篇文章"><a href="#第一篇文章" class="headerlink" title="第一篇文章"></a>第一篇文章</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="搭建一个属于自己的博客，并试着美化它吧！"><a href="#搭建一个属于自己的博客，并试着美化它吧！" class="headerlink" title="搭建一个属于自己的博客，并试着美化它吧！"></a>搭建一个属于自己的博客，并试着美化它吧！</h2>]]></content>
       
+      
+      <categories>
+          
+          <category> Hexo </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试</title>
+      <link href="/2023/02/05/%E6%B5%8B%E8%AF%95/"/>
+      <url>/2023/02/05/%E6%B5%8B%E8%AF%95/</url>
+      
+        <content type="html"><![CDATA[<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> game </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>好用到爆炸的网站</title>
+      <link href="/2023/02/05/%E5%8D%9A%E4%B8%BB%E5%BC%BA%E6%8E%A8%E7%BD%91%E7%AB%99/"/>
+      <url>/2023/02/05/%E5%8D%9A%E4%B8%BB%E5%BC%BA%E6%8E%A8%E7%BD%91%E7%AB%99/</url>
+      
+        <content type="html"><![CDATA[<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随想 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试3</title>
+      <link href="/2023/02/05/%E6%B5%8B%E8%AF%9510/"/>
+      <url>/2023/02/05/%E6%B5%8B%E8%AF%9510/</url>
+      
+        <content type="html"><![CDATA[<h2 id="测试3"><a href="#测试3" class="headerlink" title="测试3"></a>测试3</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试3</title>
+      <link href="/2023/02/05/%E6%B5%8B%E8%AF%953/"/>
+      <url>/2023/02/05/%E6%B5%8B%E8%AF%953/</url>
+      
+        <content type="html"><![CDATA[<h2 id="测试3"><a href="#测试3" class="headerlink" title="测试3"></a>测试3</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试</title>
+      <link href="/2023/02/05/%E6%B5%8B%E8%AF%952/"/>
+      <url>/2023/02/05/%E6%B5%8B%E8%AF%952/</url>
+      
+        <content type="html"><![CDATA[<h2 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人日记 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试3</title>
+      <link href="/2023/02/05/%E6%B5%8B%E8%AF%954/"/>
+      <url>/2023/02/05/%E6%B5%8B%E8%AF%954/</url>
+      
+        <content type="html"><![CDATA[<h2 id="测试3"><a href="#测试3" class="headerlink" title="测试3"></a>测试3</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试3</title>
+      <link href="/2023/02/05/%E6%B5%8B%E8%AF%955/"/>
+      <url>/2023/02/05/%E6%B5%8B%E8%AF%955/</url>
+      
+        <content type="html"><![CDATA[<h2 id="测试3"><a href="#测试3" class="headerlink" title="测试3"></a>测试3</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试3</title>
+      <link href="/2023/02/05/%E6%B5%8B%E8%AF%956/"/>
+      <url>/2023/02/05/%E6%B5%8B%E8%AF%956/</url>
+      
+        <content type="html"><![CDATA[<h2 id="测试3"><a href="#测试3" class="headerlink" title="测试3"></a>测试3</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试3</title>
+      <link href="/2023/02/05/%E6%B5%8B%E8%AF%958/"/>
+      <url>/2023/02/05/%E6%B5%8B%E8%AF%958/</url>
+      
+        <content type="html"><![CDATA[<h2 id="测试3"><a href="#测试3" class="headerlink" title="测试3"></a>测试3</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试3</title>
+      <link href="/2023/02/05/%E6%B5%8B%E8%AF%957/"/>
+      <url>/2023/02/05/%E6%B5%8B%E8%AF%957/</url>
+      
+        <content type="html"><![CDATA[<h2 id="测试3"><a href="#测试3" class="headerlink" title="测试3"></a>测试3</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试3</title>
+      <link href="/2023/02/05/%E6%B5%8B%E8%AF%959/"/>
+      <url>/2023/02/05/%E6%B5%8B%E8%AF%959/</url>
+      
+        <content type="html"><![CDATA[<h2 id="测试3"><a href="#测试3" class="headerlink" title="测试3"></a>测试3</h2>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
       
       
     </entry>
