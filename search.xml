@@ -4,25 +4,6 @@
   
     
     <entry>
-      <title>网站推荐</title>
-      <link href="/2023/02/05/Windows%E7%BB%95%E8%BF%87%E5%AF%86%E7%A0%81%E6%B5%81%E7%A8%8B/"/>
-      <url>/2023/02/05/Windows%E7%BB%95%E8%BF%87%E5%AF%86%E7%A0%81%E6%B5%81%E7%A8%8B/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> 随想 </category>
-          
-      </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>github+hexo搭建个人博客，及butterfly主题应用</title>
       <link href="/2023/02/05/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
       <url>/2023/02/05/hexo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</url>
@@ -33,6 +14,25 @@
       <categories>
           
           <category> Hexo </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Windows绕过密码教程</title>
+      <link href="/2023/02/05/Windows%E7%BB%95%E8%BF%87%E5%AF%86%E7%A0%81%E6%95%99%E7%A8%8B/"/>
+      <url>/2023/02/05/Windows%E7%BB%95%E8%BF%87%E5%AF%86%E7%A0%81%E6%95%99%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<h1 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h1><p>一个8GB或更大的u盘 进入itellyou(网址见推荐的网址,当然也可以去官网下载：<a href="https://www.microsoft.com/zh-cn/software-download/windows10">https://www.microsoft.com/zh-cn/software-download/windows10</a>)<br>下载和你系统版本对应的Windows镜像<br>下载好之后点击镜像文件，点击setup文件，这里以windows11为例<br><img src="https://img1.imgtp.com/2023/06/30/bGqJCCsF.png" alt="插入图片"><br>接着接受条约<br><img src="https://img1.imgtp.com/2023/06/30/wfLdkHvg.png" alt="插入图片"><br>继续后，在下图界面选择为另一台电脑创建安装介质<br><img src="https://img1.imgtp.com/2023/06/30/Y7x7UaYW.png" alt="插入图片"><br>然后就是等待，等他提示你完成</p><h1 id="破解操作"><a href="#破解操作" class="headerlink" title="破解操作"></a>破解操作</h1><p>完成后u盘插入要绕过密码的计算机<br>重新启动进入BIOS通过u盘启动(不同电脑进入BIOS的按键不一样，需要自己上网查)<br>之后会进入win10安装向导 按下shift+f10 弹出cmd命令窗口<br>我们需要更改utilman.exe所在位置,输入以下代码<br><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">wmic logicaldisk get name</span><br></pre></td></tr></table></figure><br><strong>选择c盘,并读取目录列表,导航到Windows并进入system32</strong><br><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">c:  #选择c盘</span><br><span class="line">dir #读取目录列表</span><br><span class="line">cd / #进入根目录</span><br><span class="line">cd windows/system32  #导航到windows，并#进入system32</span><br></pre></td></tr></table></figure><br>这就是utilman.exe所在位置 我们需要更改它的名称<br><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ren utilman.exe utilman2.exe </span><br></pre></td></tr></table></figure><br>复制cmd.exe 到utilman.exe位置<br><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">copy cmd.exe utilman.exe </span><br></pre></td></tr></table></figure><br><strong>完成后就可以取消Windows安装 按任意键进入Windows系统</strong><br><strong>现在我们点击右下角这个轻松访问就能弹出cmd窗口了</strong><br><strong>修改密码</strong><br><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">net user 用户名 新密码</span><br></pre></td></tr></table></figure><br>然后就可以以你设置的密码进入windows啦！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随想 </category>
           
       </categories>
       
