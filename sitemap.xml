@@ -74,34 +74,7 @@
   </url>
   
   <url>
-    <loc>https://www.linsama.top/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.linsama.top/social/link/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.linsama.top/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.linsama.top/life/music/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -119,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://www.linsama.top/site/census/index.html</loc>
+    <loc>https://www.linsama.top/life/music/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -129,6 +102,33 @@
   
   <url>
     <loc>https://www.linsama.top/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.linsama.top/site/census/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.linsama.top/social/fcircle/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.linsama.top/social/link/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
